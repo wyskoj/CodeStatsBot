@@ -2,3 +2,6 @@
 /.gradle/
 /build/
 /build/classes/java/main/
+/analyze
+analysis.png
+src/main/resources/bot.secret
